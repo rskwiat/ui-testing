@@ -1,0 +1,6 @@
+tests/credentials.json
+tests/diffs-1
+tests/testImages
+tests/ietest.js
+.DS_store
+node_modules
